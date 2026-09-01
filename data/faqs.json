@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is Artificial Intelligence?",
+        "answer": "Artificial Intelligence (AI) is a field of computer science that focuses on creating systems that can perform tasks that normally require human intelligence, such as learning, reasoning, and problem solving."
+    },
+    {
+        "question": "What is AI?",
+        "answer": "AI stands for Artificial Intelligence. It enables computers and machines to perform tasks that usually require human intelligence."
+    },
+    {
+        "question": "What is Machine Learning?",
+        "answer": "Machine Learning is a branch of AI in which computers learn patterns from data and use those patterns to make predictions or decisions."
+    },
+    {
+        "question": "What is Deep Learning?",
+        "answer": "Deep Learning is a branch of machine learning that uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data."
+    },
+    {
+        "question": "What is Natural Language Processing?",
+        "answer": "Natural Language Processing (NLP) is a field of AI that helps computers understand, process, and generate human language."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP stands for Natural Language Processing. It allows computers to work with human languages such as English."
+    },
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level, general-purpose programming language known for its simple syntax and wide range of libraries."
+    },
+    {
+        "question": "Why is Python popular for AI?",
+        "answer": "Python is popular for AI because it has many powerful libraries such as NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, and NLTK."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a software application that communicates with users through text or voice and provides responses based on programmed rules, AI models, or both."
+    },
+    {
+        "question": "How does a chatbot work?",
+        "answer": "A chatbot receives a user's message, processes the input, determines the user's intent or the most relevant response, and then returns an answer."
+    },
+    {
+        "question": "What is an FAQ chatbot?",
+        "answer": "An FAQ chatbot is a chatbot designed to answer frequently asked questions by matching a user's question with a collection of predefined questions and answers."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF stands for Term Frequency-Inverse Document Frequency. It is a technique used in NLP to represent text numerically and determine how important words are within documents."
+    },
+    {
+        "question": "What is cosine similarity?",
+        "answer": "Cosine similarity is a mathematical method used to measure how similar two vectors are. In NLP, it can be used to compare the similarity between text documents."
+    },
+    {
+        "question": "How does this FAQ chatbot find an answer?",
+        "answer": "The chatbot preprocesses the user's question, converts FAQ questions into TF-IDF vectors, calculates cosine similarity, and selects the FAQ with the highest similarity score."
+    },
+    {
+        "question": "What is NLP preprocessing?",
+        "answer": "NLP preprocessing prepares text for analysis by performing operations such as converting text to lowercase, removing unnecessary characters, tokenizing, removing stop words, and stemming."
+    },
+    {
+        "question": "What is tokenization?",
+        "answer": "Tokenization is the process of breaking text into smaller units called tokens, such as words or sentences."
+    },
+    {
+        "question": "What are stop words?",
+        "answer": "Stop words are common words such as the, is, a, and, and to that are often removed during text preprocessing because they may provide limited useful information."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming is an NLP technique that reduces words to a common root form by removing prefixes or suffixes."
+    },
+    {
+        "question": "What is NLTK?",
+        "answer": "NLTK stands for Natural Language Toolkit. It is a Python library that provides tools for working with human language data and performing NLP tasks."
+    },
+    {
+        "question": "What is Scikit-learn?",
+        "answer": "Scikit-learn is a Python machine learning library that provides tools for data preprocessing, feature extraction, classification, regression, clustering, and similarity calculations."
+    },
+    {
+        "question": "What is Gradio?",
+        "answer": "Gradio is a Python library that makes it easy to create web interfaces for machine learning and Python applications."
+    },
+    {
+        "question": "Why is Gradio used in this project?",
+        "answer": "Gradio is used to create a simple and interactive web interface where users can type questions and receive chatbot responses."
+    },
+    {
+        "question": "What is a neural network?",
+        "answer": "A neural network is a machine learning model inspired by the structure of the human brain. It consists of connected computational units called neurons."
+    },
+    {
+        "question": "What is supervised learning?",
+        "answer": "Supervised learning is a machine learning approach where a model learns from labeled training data containing inputs and their expected outputs."
+    },
+    {
+        "question": "What is unsupervised learning?",
+        "answer": "Unsupervised learning is a machine learning approach where algorithms find patterns or structures in data without predefined labels."
+    },
+    {
+        "question": "What is data preprocessing?",
+        "answer": "Data preprocessing is the process of cleaning and transforming raw data into a suitable format for analysis or machine learning."
+    },
+    {
+        "question": "What is machine learning used for?",
+        "answer": "Machine learning can be used for tasks such as prediction, recommendation systems, image recognition, spam detection, fraud detection, and natural language processing."
+    },
+    {
+        "question": "What is deep learning used for?",
+        "answer": "Deep learning is used for applications such as image recognition, speech recognition, natural language processing, autonomous systems, and generative AI."
+    },
+    {
+        "question": "What is artificial neural network?",
+        "answer": "An artificial neural network is a computational model made of interconnected nodes or neurons that learn patterns from data."
+    },
+    {
+        "question": "What is an AI model?",
+        "answer": "An AI model is a computational system trained to recognize patterns, make predictions, generate content, or perform specific intelligent tasks."
+    }
+]
