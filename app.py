@@ -20,21 +20,17 @@ demo = gr.Interface(fn = answer_question, inputs = gr.Textbox(label = "Your Ques
         title = "🤖 CodeAlpha FAQ Chatbot",
         description = ("An NLP-powered FAQ chatbot using TF-IDF and cosine similarity to find the most relevent answer."),
         examples = [
-            ["What is Artifical Intelligence?"],
+            ["What is Artificial Intelligence?"],
             ["What is Machine Learning?"],
             ["What is NLP?"],
-            ["What is Python popular for AI?"],
+            ["Why is Python popular for AI?"],
             ["What is cosine similarity?"],
-            ["How does this chatbot find an answer?"]
-        ],
-        clear_btn = "Clear",
-        submit_btn = "Ask"
-
+            ["How does this chatbot find an answer?"] ]
         )
 
 if __name__ == "__main__":
     print("Loading CodeAlpha FAQ Chatbot...")
-    print(f"Loaded{len(chatbot.faqs)} FAQs.")
+    print(f"Loaded {len(chatbot.faqs)} FAQs.")
     print("Starting Gradio application...")
 
     demo.launch()

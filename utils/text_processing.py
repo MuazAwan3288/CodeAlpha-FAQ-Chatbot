@@ -46,7 +46,7 @@ def preprocess_text(text):
     text = re.sub(r"http?://\S+|www\.\S+", " ", text)
 
 # Tokenize using NLTK>
-    token = wordpunct_tokenize(text)
+    tokens = wordpunct_tokenize(text)
 
 # Remove stop words and short words.
     tokens = [
